@@ -1,2 +1,9 @@
-# python_pep8_pre_commit
-Template repository with PEP8 pre-commit hooks
+# Python PEP8 pre-commit template
+Template repository with pre-commit hooks
+
+## Hooks
+
+* check-yaml
+* isort
+* autopep8
+* flake8
